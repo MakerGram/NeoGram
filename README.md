@@ -67,7 +67,7 @@ add modules to an existing device networking, or building a separate network con
 ## WS2812b  
 
 <p align="center">
-  <img src="Resource/Images/ws2812b.jpg" />
+  <img src="Resource/Images/ws2812barray.png" />
 </p>
 
 <b>NeoGram</b> comes with 12 programable WS2812B a.k.a NeoPixel leds. NeoPixel” is Adafruit’s brand for individually-addressable RGB color pixels and strips based on the WS2812, WS2811 and SK6812 LED/drivers, using a single-wire control protocol. 
@@ -95,6 +95,10 @@ The FTDI can act as an has an debug port so you can plug in an USB or console ca
 <hr>
 
 ## Power
+
+<p align="center">
+  <img src="Resource/Images/power_section.png" />
+</p>
 
 
 
