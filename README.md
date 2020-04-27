@@ -17,10 +17,10 @@ Clock speed support 80 MHz, 160 MHz, supports the RTOS, integrated Wi-Fi MAC/BB/
 * Inbuilt USB to UART
 * Inbuild Voltage Regulator
 * Reset button
-* RED "ON" LED so you know its powered
+* Power led
 * MicroUSB port for programming and debugging 
 * USB port can act like serial port, keyboard, mouse, joystick or MIDI!
-* Powerd by ESP8266-12E - 32 bit, running at 3.3v at 160 MHz
+* Powerd by ESP8266-12E - 32 bit, running 3.3v at 160 MHz
 * Arduino Comptable 
 * Micropython Compatble
 * OpenSource Hardware ❤️
