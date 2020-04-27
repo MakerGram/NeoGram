@@ -21,13 +21,10 @@ NeoGram is an ESP8266 based Open Source Hardware  Development board aimed to pro
 * OpenSource Hardware ❤️
 
 <br>
-<br>
 
 
 NeoGram is Powerd by [ESP8266-12E Module](Documents/ESP12E-Datasheet.pdf) which is encapsulates <b>Tensilica L106</b> integrates industry-leading ultra low power 32-bit MCU micro, with the 16-bit short mode,
 Clock speed support 80 MHz, 160 MHz, supports the RTOS, integrated Wi-Fi MAC/BB/RF/PA/LNA, on-board antenna. The 12 of the  <b>WS2812B</b> can be progarmme indvidualy as maker wish to make there project colorfull.  
-
-
 
 
 <hr>
@@ -39,16 +36,13 @@ Clock speed support 80 MHz, 160 MHz, supports the RTOS, integrated Wi-Fi MAC/BB/
 </p>
 
 
-
-
 <hr>
 
-### ESP8266
+## ESP8266
 
 <p align="center">
   <img src="Resource/img/esp826612e.jpg" />
 </p>
-
 
 
 The ESP8266 processor from Espressif is an 80 MHz microcontroller with a full WiFi front-end (both as client and access point) and TCP/IP stack with DNS support as well. While this chip has been very popular, its also been very difficult to use. Most of the low cost modules are not breadboard friendly, don't have an onboard 1000mA 3.3V regulator or level shifting.
@@ -67,6 +61,8 @@ img src: Espressif
 
 <hr>
 
+## WS2812b  
+
 <b>NeoGram</b> comes with 12 programable WS2812B a.k.a NeoPixel leds. NeoPixel” is Adafruit’s brand for individually-addressable RGB color pixels and strips based on the WS2812, WS2811 and SK6812 LED/drivers, using a single-wire control protocol. 
 
 <p align="center">
@@ -79,8 +75,6 @@ Img src: Adafruit
 a package of 5050 components. It internal include intelligent digital port data latch and signal reshaping ampli
 fication drive circuit. Also include a precision internal oscillator and a 12V voltage programmable constant curr
 e-nt control part, effectively ensuring the pixel point light color height consisten.
-
-
 
 <hr>
 
