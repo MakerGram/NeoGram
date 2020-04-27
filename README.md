@@ -40,8 +40,8 @@ The [NeoGram Schematic](Hardware) Divided into Four Sections.
 
 * ESP8266 Main Module
 * WS2812B LED Array
-* Power Section
 * USB to UART
+* Power Section
 
 
 
@@ -78,4 +78,14 @@ fication drive circuit. Also include a precision internal oscillator and a 12V v
 e-nt control part, effectively ensuring the pixel point light color height consisten.
 
 <hr>
+
+## USB to UART
+
+
+
+NeoGram using [FT230x](Documents/ft230x.pdf). The FT230X is a USB to serial UART interface with optimised pin count for
+smaller PCB designs. It act as a USB to asynchronous serial data
+transfer interface and  No USB specific firmware programming required for the NeoGram. It's ahve Transmit and receive LED drive signals with dev board. 
+
+The FTDI can act as an has an debug port so you can plug in an USB or console cable to upload software and read/write debugging information via the UART. When you're done with your coding, remove the cable, and this little module can be embeded into your project box.
 
