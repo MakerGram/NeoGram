@@ -1,0 +1,22 @@
+Partlist exported from C:/Users/Faris/Documents/EAGLE/projects/MG-ESP/Board.sch at 1/1/2020 5:11 PM
+
+Qty Value           Device                    Package             Parts                                                                     Description                       POPULARITY PROD_ID   
+1                   ESP-12EESP12E             ESP-12E-SOC         SJR1                                                                      ESP8266-12E Library for Eagle CAD                      
+1                   USB_MICRO-B_HALF_PTH_MILL USB-MICROB-PTH-MILL J1                                                                        USB Type Micro-B Connector                   CONN-13711
+1   0               RES1206FAB                R1206               R6                                                                        Resistor (US Symbol)                                   
+2   100nF           CAP-UNPOLARIZEDFAB        C1206FAB            C5, C7                                                                                                                           
+5   10k             RES1206FAB                R1206               R7, R8, R9, R10, R11                                                      Resistor (US Symbol)                                   
+1   10nF            CAP-UNPOLARIZEDFAB        C1206FAB            C2                                                                                                                               
+4   1k              RES1206FAB                R1206               R3, R4, R5, R12                                                           Resistor (US Symbol)                                   
+2   27R             RES1206FAB                R1206               R1, R2                                                                    Resistor (US Symbol)                                   
+3   4.7uF           CAP-UNPOLARIZEDFAB        C1206FAB            C6, C8, C9                                                                                                                       
+2   47pF            CAP-UNPOLARIZEDFAB        C1206FAB            C3, C4                                                                                                                           
+1   FT230XS         FT230XS                   SSOP16              FT230X                                                                    USB to BASIC UART IC              1                    
+1   Flash           6MM_SWITCH6MM_SWITCH      6MM_SWITCH          S2                                                                        6mm Push Button                                        
+2   LED             LEDFAB1206                LED1206             ILED, LED                                                                 LED                                                    
+1   NCP1117_SOT223  NCP1117_SOT223            SOT223              NCP1117                                                                                                                          
+1   OSHWLOGOLOGO8MM OSHWLOGOLOGO8MM           OSHW_8MM            GOLD_ORB_SM1                                                              The OSHW logo for PCB layout                           
+1   RXLED           LEDFAB1206                LED1206             RX                                                                        LED                                                    
+1   Reset           6MM_SWITCH6MM_SWITCH      6MM_SWITCH          S1                                                                        6mm Push Button                                        
+1   TXLED           LEDFAB1206                LED1206             TX                                                                        LED                                                    
+12  WS2812B5050     WS2812B5050               WS2812B             LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12                                                        
