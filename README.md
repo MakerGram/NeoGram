@@ -81,6 +81,9 @@ e-nt control part, effectively ensuring the pixel point light color height consi
 
 ## USB to UART
 
+<p align="center">
+  <img src="Resource/Images/ft230x.png" />
+</p>
 
 
 NeoGram using [FT230x](Documents/ft230x.pdf). The FT230X is a USB to serial UART interface with optimised pin count for
