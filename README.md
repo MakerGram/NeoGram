@@ -20,14 +20,33 @@ NeoGram is an ESP8266 based Open Source Hardware  Development board aimed to pro
 * Micropython Compatble
 * OpenSource Hardware ❤️
 
+<br>
+<br>
+
+
+NeoGram is Powerd by [ESP8266-12E Module](Documents/ESP12E-Datasheet.pdf) which is encapsulates <b>Tensilica L106</b> integrates industry-leading ultra low power 32-bit MCU micro, with the 16-bit short mode,
+Clock speed support 80 MHz, 160 MHz, supports the RTOS, integrated Wi-Fi MAC/BB/RF/PA/LNA, on-board antenna. The 12 of the  <b>WS2812B</b> can be progarmme indvidualy as maker wish to make there project colorfull.  
+
+
+
 
 <hr>
 
-NeoGram is Powerd by [ESP8266-12E Module](Documents/ESP12E-Datasheet.pdf) which is encapsulates <b>Tensilica L106</b> integrates industry-leading ultra low power 32-bit MCU micro, with the 16-bit short mode,
-Clock speed support 80 MHz, 160 MHz, supports the RTOS, integrated Wi-Fi MAC/BB/RF/PA/LNA, on-board antenna.
+## Schematic 
+
+<p align="center">
+  <img src="Resource/img/schematic.png" />
+</p>
+
+
+
+
+<hr>
+
+### ESP8266
 
 The module supports standard IEEE802.11 b/g/n agreement, complete TCP/IP protocol stack. Users can use the
-add modules to an existing device networking, or building a separate network controller.
+add modules to an existing device networking, or building a separate network controller .
 
 
 <p align="center">
@@ -46,23 +65,14 @@ img src: Espressif
 
 Img src: Adafruit
 
-
-
-
 [WS2812B](Documents/WS2812B.pdf) is a intelligent control LED light source that the control circuit and RGB chip are integrated in
 a package of 5050 components. It internal include intelligent digital port data latch and signal reshaping ampli
 fication drive circuit. Also include a precision internal oscillator and a 12V voltage programmable constant curr
 e-nt control part, effectively ensuring the pixel point light color height consisten.
 
-The 12 of the  WS2812B can be progarmme indvidualy as maker wish to make there project colorfull.  
 
-<hr><hr>
 
-## Schematic 
-
-<p align="center">
-  <img src="Resource/img/schematic.png" />
-</p>
+<hr>
 
 
 
