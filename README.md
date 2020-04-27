@@ -18,7 +18,11 @@ NeoGram is an ESP8266 based Open Source Hardware  Development board aimed to pro
 * Powerd by ESP8266-12E - 32 bit, running at 3.3v at 160 MHz
 * Arduino Comptable 
 * Micropython Compatble
-* OpenSource Hardware 
+<<<<<<< HEAD
+* OpenSource Hardware
+=======
+* OpenSource Hardware ❤️
+>>>>>>> 6e37c6fd15c5a2d07c92ed254aeb0a9eeeaa1fd4
 
 <hr>
 
