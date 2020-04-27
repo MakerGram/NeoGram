@@ -45,6 +45,16 @@ Clock speed support 80 MHz, 160 MHz, supports the RTOS, integrated Wi-Fi MAC/BB/
 
 ### ESP8266
 
+<p align="center">
+  <img src="Resource/img/esp826612e.jpg" />
+</p>
+
+
+
+The ESP8266 processor from Espressif is an 80 MHz microcontroller with a full WiFi front-end (both as client and access point) and TCP/IP stack with DNS support as well. While this chip has been very popular, its also been very difficult to use. Most of the low cost modules are not breadboard friendly, don't have an onboard 1000mA 3.3V regulator or level shifting.
+
+The NeoGram comes with a onboard 1000mA 3.3v regulator with Arduino/MicroPython Support. 🎉
+
 The module supports standard IEEE802.11 b/g/n agreement, complete TCP/IP protocol stack. Users can use the
 add modules to an existing device networking, or building a separate network controller .
 
