@@ -1,6 +1,6 @@
 
 # NeoGram v0.1α 🎨
-![NeoGram](Resource/Image/NeoGram.png)
+![NeoGram](Resource/Images/NeoGram.png)
 
 NeoGram is an ESP8266 based Open Source Hardware  Development board aimed to provide experiments on NeoPixels (WS2812B) using ESP8266. 
 
@@ -33,7 +33,7 @@ Clock speed support 80 MHz, 160 MHz, supports the RTOS, integrated Wi-Fi MAC/BB/
 ## Schematic 
 
 <p align="center">
-  <img src="Resource/Image/schematic.png" />
+  <img src="Resource/Images/schematic.png" />
 </p>
 
 The [NeoGram Schematic](Hardware) Divided into Four Sections.
@@ -50,7 +50,7 @@ The [NeoGram Schematic](Hardware) Divided into Four Sections.
 ## ESP8266
 
 <p align="center">
-  <img src="Resource/Image/esp826612e.jpg" />
+  <img src="Resource/Images/esp826612e.jpg" />
 </p>
 
 
@@ -63,7 +63,7 @@ add modules to an existing device networking, or building a separate network con
 
 
 <p align="center">
-  <img src="Resource/Image/esp8266ex.png" />
+  <img src="Resource/Images/esp8266ex.png" />
 </p>
 
 img src: Espressif
@@ -75,7 +75,7 @@ img src: Espressif
 <b>NeoGram</b> comes with 12 programable WS2812B a.k.a NeoPixel leds. NeoPixel” is Adafruit’s brand for individually-addressable RGB color pixels and strips based on the WS2812, WS2811 and SK6812 LED/drivers, using a single-wire control protocol. 
 
 <p align="center">
-  <img src="Resource/Image/ws2812b.jpg" />
+  <img src="Resource/Images/ws2812b.jpg" />
 </p>
 
 Img src: Adafruit
