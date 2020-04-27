@@ -106,7 +106,7 @@ NeoGram comes with onboard 1000mA 3.3V regulator, so we can directly connect USB
 
 <hr><hr>
 
-
+## Hero Shot
 
 <p align="center">
   <img src="Resource/Images/02022020.jpg" />
@@ -115,7 +115,7 @@ NeoGram comes with onboard 1000mA 3.3V regulator, so we can directly connect USB
 <hr>
 <hr>
 
-## Resouce
+## Resource
 * [Component Datasheets](Documents)
 * [PCB Design Files](Hardware)
 * [PCB Manufacturing File](Hardware/Manufacturing-File)
