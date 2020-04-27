@@ -92,3 +92,10 @@ transfer interface and  No USB specific firmware programming required for the Ne
 
 The FTDI can act as an has an debug port so you can plug in an USB or console cable to upload software and read/write debugging information via the UART. When you're done with your coding, remove the cable, and this little module can be embeded into your project box.
 
+<hr>
+
+## Power
+
+
+
+NeoGram comes with onboard 1000mA 3.3V regulator, so we can directly connect USB power supply without any regulator or level shifting. The Power section based on the [LM1117](Documents/lm1117.pdf), it's a The LM117 and LM317-N series of adjustable 3-pin positive voltage regulators are capable of supplying in excess of 1.5 A over a 1.25-V to 37-V output range and a wide temperature range.  we also attached 0.1uf input and output filter capacitors.
