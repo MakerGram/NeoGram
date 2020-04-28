@@ -1,5 +1,5 @@
 
-# NeoGram v0.1α 🎨
+# NeoGram v0.0.1α 🎨
 ![NeoGram](Resource/Images/NeoGram.png)
 
 NeoGram is an ESP8266 based Open Source Hardware  Development board aimed to provide experiments on NeoPixels (WS2812B) using ESP8266. 
